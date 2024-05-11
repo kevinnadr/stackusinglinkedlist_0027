@@ -57,3 +57,5 @@ public:
 			cout << endl;
 		}// return the value of the top node
 	}
+
+	// IsEmpty operation: Check if the stack is empty
